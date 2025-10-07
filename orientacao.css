@@ -1,0 +1,106 @@
+
+body
+{
+    font-family:'Times New Roman', Times, serif;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('https://ica.ele.puc-rio.br/wp-content/uploads/2023/12/chatbots-post.webp');
+    background-color: #0c4574;
+    color: rgb(255, 237, 237);
+    margin:40px;
+}
+h1
+{
+    margin-left: 540px;
+    margin-right: 590px;
+    border-radius: 90px;
+    padding: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #115c9860;
+    border:steelblue solid;
+}
+h2
+{
+    margin-bottom: 5px;
+}
+fieldset
+{
+    border-style: none;
+}
+section
+{ 
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 20px;
+    border-bottom: 40px;
+    border-width: 50px;
+}  
+section div
+{
+    margin-top: 20px;
+    padding: 15px;
+    border:#2673b2 solid;
+    border-radius: 20px;
+    color: #ffffff;
+    background-color: #0b3c6360;
+}
+.instrucoes div p
+{
+    display: flex;
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffffff;
+}  
+.instrucoes summary
+{
+    margin: 0;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 36rem;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-transform: uppercase;
+    border-radius: 70px;
+    padding: 28px;
+}
+details
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+    background-color: #00274798;
+}
+details summary
+{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#codPython
+{
+    background-color: #0b3c6360;
+    border:steelblue solid;
+    border-radius: 80px;
+    padding: 20px;
+}
+abbr
+{
+    text-decoration: none;
+    border-bottom: none; 
+    cursor: pointer;   
+}
+footer a
+{
+    margin-left: 550px;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
